@@ -1,1 +1,1 @@
-# Pythonda-arifmetik-operatorlar
+Pythonda arifmetik operatorlar mavzusidan algoritmik masalalar ishlanishi
